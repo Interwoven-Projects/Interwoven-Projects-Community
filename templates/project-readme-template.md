@@ -62,6 +62,6 @@ Any conventions, tone, or important context for people joining later.
 
 ---
 
-*This project is part of [Interwoven Projects](https://github.com/Interwoven-Projects-Community/Interwoven-Projects-Community).*
+*This project is part of [Interwoven Projects](https://github.com/Interwoven-Projects/Interwoven-Projects-Community).*
 
 *Last updated: [Date]*

@@ -2,9 +2,9 @@
 
 **A community where ideas from many disciplines cross-pollinate to become real projects — and every contributor gets credited for the part they play.**
 
-[![Discussions](https://img.shields.io/badge/GitHub-Discussions-blue?style=flat)](https://github.com/Interwoven-Projects-Community/Interwoven-Projects-Community/discussions)
-[![Issues](https://img.shields.io/badge/GitHub-Issues-green?style=flat)](https://github.com/Interwoven-Projects-Community/Interwoven-Projects-Community/issues)
-[![Projects](https://img.shields.io/badge/GitHub-Projects-purple?style=flat)](https://github.com/Interwoven-Projects-Community/Interwoven-Projects-Community/projects)
+[![Discussions](https://img.shields.io/badge/GitHub-Discussions-blue?style=flat)](https://github.com/Interwoven-Projects/Interwoven-Projects-Community/discussions)
+[![Issues](https://img.shields.io/badge/GitHub-Issues-green?style=flat)](https://github.com/Interwoven-Projects/Interwoven-Projects-Community/issues)
+[![Projects](https://img.shields.io/badge/GitHub-Projects-purple?style=flat)](https://github.com/Interwoven-Projects/Interwoven-Projects-Community/projects)
 
 ---
 
@@ -47,7 +47,7 @@ The whole process is designed to be **low-friction** while protecting trust thro
 
 The best way to start is with a **structured proposal**.
 
-**→ [Open a Project Proposal](https://github.com/Interwoven-Projects-Community/Interwoven-Projects-Community/issues/new?template=project-proposal.yml)**
+**→ [Open a Project Proposal](https://github.com/Interwoven-Projects/Interwoven-Projects-Community/issues/new?template=project-proposal.yml)**
 
 Our proposal form asks for:
 - Core disciplines involved
@@ -63,10 +63,10 @@ Proposals are public and become the seed for community discussion.
 ## Browse, Discuss & Contribute
 
 - **GitHub Discussions** — The heart of the community. Introduce yourself, browse project ideas, offer skills, or just hang out.
-  - [All Discussions](https://github.com/Interwoven-Projects-Community/Interwoven-Projects-Community/discussions)
+  - [All Discussions](https://github.com/Interwoven-Projects/Interwoven-Projects-Community/discussions)
 - **Issues** — Used for structured proposals and tracked contributions.
 - **GitHub Projects Board** — High-level pipeline view of everything happening.
-  - [View the Board](https://github.com/Interwoven-Projects-Community/Interwoven-Projects-Community/projects)
+  - [View the Board](https://github.com/Interwoven-Projects/Interwoven-Projects-Community/projects)
 - **X Communities & Spaces** — Most real-time chat and community Spaces happen here. Official group chat: https://x.com/i/chat/group_join/g2052485957421576616/1IPW0e5lSJ (We highly suggest joining the Spaces posted in the group chats)
 
 **Looking for something specific?** Use labels like `field:physics`, `status:seeking-contributors`, or `needs:writer`.
@@ -112,7 +112,7 @@ We believe good attribution:
 ## Getting Started
 
 1. **Star** this repository so you can find it again.
-2. **Introduce yourself** in [Discussions → Introductions & Skills](https://github.com/Interwoven-Projects-Community/Interwoven-Projects-Community/discussions/categories/introductions-skills). Tell us your background, interests, and what kinds of projects excite you.
+2. **Introduce yourself** in [Discussions → Introductions & Skills](https://github.com/Interwoven-Projects/Interwoven-Projects-Community/discussions/categories/introductions-skills). Tell us your background, interests, and what kinds of projects excite you.
 3. **Browse open proposals** or [propose your own](#propose-a-new-project).
 4. **Join the conversation** on X (link below) where many of us first connect. We highly suggest joining the official Interwoven Projects X Communities group chat and Spaces: https://x.com/i/chat/group_join/g2052485957421576616/1IPW0e5lSJ
 

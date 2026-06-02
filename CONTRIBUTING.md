@@ -13,10 +13,10 @@ Thank you for your interest in collaborating! This document explains the practic
 
 | What you want to do                  | How to do it                                                                 |
 |--------------------------------------|-------------------------------------------------------------------------------|
-| Introduce yourself & your skills     | [Open a Discussion](https://github.com/Interwoven-Projects-Community/Interwoven-Projects-Community/discussions) in "Introductions & Skills" |
-| Propose a new project                | Use the [Project Proposal form](https://github.com/Interwoven-Projects-Community/Interwoven-Projects-Community/issues/new?template=project-proposal.yml) |
-| Join an existing project             | Comment on its thread or use the [Join Project form](https://github.com/Interwoven-Projects-Community/Interwoven-Projects-Community/issues/new?template=join-project.yml) |
-| Record a contribution you made       | Use the [Contribution Update form](https://github.com/Interwoven-Projects-Community/Interwoven-Projects-Community/issues/new?template=contribution-update.yml) |
+| Introduce yourself & your skills     | [Open a Discussion](https://github.com/Interwoven-Projects/Interwoven-Projects-Community/discussions) in "Introductions & Skills" |
+| Propose a new project                | Use the [Project Proposal form](https://github.com/Interwoven-Projects/Interwoven-Projects-Community/issues/new?template=project-proposal.yml) |
+| Join an existing project             | Comment on its thread or use the [Join Project form](https://github.com/Interwoven-Projects/Interwoven-Projects-Community/issues/new?template=join-project.yml) |
+| Record a contribution you made       | Use the [Contribution Update form](https://github.com/Interwoven-Projects/Interwoven-Projects-Community/issues/new?template=contribution-update.yml) |
 | Offer feedback or help               | Comment thoughtfully on active Discussions and Issues                         |
 | Improve these guidelines             | Open a PR or Discussion suggesting changes                                    |
 

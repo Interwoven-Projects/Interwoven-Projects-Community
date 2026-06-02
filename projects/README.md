@@ -8,7 +8,7 @@ Each subfolder represents one active (or recently completed) project.
 
 | Project Name                  | Primary Fields                  | Status          | Last Updated | Link to Folder / Repo |
 |-------------------------------|---------------------------------|-----------------|--------------|-----------------------|
-| *(None yet — be the first!)* | —                               | —               | —            | [Propose a project](https://github.com/Interwoven-Projects-Community/Interwoven-Projects-Community/issues/new?template=project-proposal.yml) |
+| *(None yet — be the first!)* | —                               | —               | —            | [Propose a project](https://github.com/Interwoven-Projects/Interwoven-Projects-Community/issues/new?template=project-proposal.yml) |
 
 ## How to Add a New Active Project
 

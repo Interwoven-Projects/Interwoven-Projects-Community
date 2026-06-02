@@ -1,0 +1,127 @@
+name: Project Proposal
+description: Propose a new collaborative project for the Interwoven community
+title: "[Proposal] "
+labels: ["status:seeking-contributors"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for proposing a project! 
+
+        This form helps the community quickly understand your idea and the kinds of collaborators you're looking for. 
+
+        Be as clear as you can — good proposals attract great contributors.
+
+  - type: input
+    id: title
+    attributes:
+      label: Project Title
+      description: A short, memorable name for the project
+      placeholder: "Quantum Ethics in Historical Context"
+    validations:
+      required: true
+
+  - type: textarea
+    id: one-sentence
+    attributes:
+      label: One-sentence summary
+      description: The elevator pitch. What is this project about?
+      placeholder: "Exploring how quantum measurement ideas might illuminate debates in historiography and narrative construction."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: disciplines
+    attributes:
+      label: Disciplines / Fields involved
+      description: Select all that apply. Add more in the description if needed.
+      options:
+        - label: Coding & Software
+        - label: Artificial Intelligence / Machine Learning
+        - label: Physics & Natural Sciences
+        - label: History & Historiography
+        - label: Philosophy & Ethics
+        - label: Biology & Life Sciences
+        - label: Writing, Journalism & Storytelling
+        - label: Design (Visual, UX, Systems)
+        - label: Mathematics & Modeling
+        - label: Art & Creative Practice
+        - label: Policy, Governance & Civic Tech
+        - label: Other (please describe below)
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Detailed description
+      description: What is the project? Why does it matter? What are the main questions or goals?
+      placeholder: "Describe the background, core questions, and what you're hoping to create or discover."
+    validations:
+      required: true
+
+  - type: textarea
+    id: success
+    attributes:
+      label: What does success look like?
+      description: How will we know the project has achieved something meaningful?
+      placeholder: "A published paper, a working prototype, a public exhibition, a well-documented open resource, etc."
+    validations:
+      required: true
+
+  - type: textarea
+    id: roles-needed
+    attributes:
+      label: Roles / Skills you're looking for
+      description: What kinds of contributors would help most? Be specific.
+      placeholder: "- A philosopher comfortable with philosophy of science\n- Someone who can write clear, engaging prose\n- A developer who can prototype a simple visualization tool"
+
+  - type: textarea
+    id: timeline
+    attributes:
+      label: Rough timeline & commitment
+      description: How long do you expect this to take? What level of ongoing involvement are you hoping for from others?
+      placeholder: "3-6 months part-time. I can commit ~5 hours/week as lead."
+
+  - type: textarea
+    id: existing-work
+    attributes:
+      label: Existing work or related links
+      description: Have you already written something, built a prototype, or found relevant references?
+      placeholder: "Link to a thread, paper, repo, notes, etc."
+
+  - type: textarea
+    id: credit-vision
+    attributes:
+      label: How do you envision crediting contributors?
+      description: Any initial thoughts on roles or attribution? (This can evolve.)
+      placeholder: "I see myself as Originator + Project Lead. Expect to credit Domain Experts heavily. Open to discussion on all roles."
+
+  - type: input
+    id: proposer
+    attributes:
+      label: Your name / handle
+      description: How should the community refer to you?
+      placeholder: "@yourhandle or Full Name"
+    validations:
+      required: true
+
+  - type: input
+    id: contact
+    attributes:
+      label: Best way to reach you
+      description: X handle, email, or other (will be public on the issue)
+      placeholder: "@yourhandle on X or email@example.com"
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Anything else?
+      description: Constraints, excitement, questions for the community, etc.
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+
+        **After submitting**, please monitor the issue and the linked Discussion. 
+
+        Good proposals often evolve through community input. Be open to collaboration and scope refinement.

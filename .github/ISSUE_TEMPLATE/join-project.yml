@@ -1,0 +1,83 @@
+name: Join / Contribute to a Project
+description: Express interest in contributing to an existing project
+title: "[Interest] "
+labels: ["status:seeking-contributors"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Great! Expressing interest is the first step to getting involved.
+
+        Please be specific about what you can bring and how much time you have. This helps project leads plan.
+
+  - type: input
+    id: project
+    attributes:
+      label: Which project?
+      description: Link to the main project issue, discussion, or name
+      placeholder: "Link to the proposal or project thread"
+    validations:
+      required: true
+
+  - type: input
+    id: name
+    attributes:
+      label: Your name / handle
+      placeholder: "@yourhandle"
+    validations:
+      required: true
+
+  - type: textarea
+    id: background
+    attributes:
+      label: Relevant background or skills
+      description: What can you bring to this project? (Be honest — hobbyist experience counts!)
+      placeholder: "Physics PhD student, familiar with quantum information. Strong at explaining technical ideas to non-specialists. Can commit ~4 hrs/week for the next 3 months."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: role-interest
+    attributes:
+      label: Primary role(s) you're interested in
+      description: You can pick multiple if relevant
+      multiple: true
+      options:
+        - Domain Expert
+        - Researcher
+        - Writer / Narrator
+        - Developer / Builder
+        - Designer
+        - Reviewer / Critic
+        - Facilitator
+        - Data / Experiments
+        - Connector
+        - Other (describe below)
+
+  - type: textarea
+    id: specific-offer
+    attributes:
+      label: What specifically would you like to contribute?
+      description: Concrete tasks or areas are most helpful.
+      placeholder: "I can help review the historical accuracy sections and write one chapter of the final narrative."
+
+  - type: textarea
+    id: time
+    attributes:
+      label: Time availability & duration
+      placeholder: "4-6 hours per week for the next 2-3 months"
+
+  - type: textarea
+    id: questions
+    attributes:
+      label: Questions or constraints
+      description: Anything the project lead should know?
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+
+        After submitting, the project lead (or current active members) will usually reply within a few days.
+
+        If you don't hear back, feel free to gently bump the thread or post in the main Discussions.

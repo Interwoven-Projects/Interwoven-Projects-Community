@@ -1,0 +1,87 @@
+name: Contribution Update (for Credit)
+description: Record work you've done on a project so it can be properly credited
+title: "[Credit] "
+labels: ["credit-open"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to formally record contributions. 
+
+        This creates a clear, timestamped record that project leads can easily turn into the final CONTRIBUTORS table.
+
+        You can submit this for your own work or (with permission) on behalf of others.
+
+  - type: input
+    id: project
+    attributes:
+      label: Project this contribution is for
+      description: Link to the main project issue, discussion, or `/projects` entry
+      placeholder: "Link or project name"
+    validations:
+      required: true
+
+  - type: input
+    id: contributor-name
+    attributes:
+      label: Contributor name / handle
+      description: The person who did the work (can be yourself)
+      placeholder: "@contributor or Full Name"
+    validations:
+      required: true
+
+  - type: textarea
+    id: what-was-done
+    attributes:
+      label: What work was done?
+      description: Be specific and concrete. This is the most important part.
+      placeholder: "Wrote the first full draft of the 'Measurement and Narrative' section (approx 1800 words). Created three explanatory diagrams in Figma. Reviewed the quantum mechanics accuracy with Priya."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: roles
+    attributes:
+      label: Which role(s) does this contribution best fit?
+      options:
+        - label: Originator / Idea
+        - label: Project Lead
+        - label: Domain Expert
+        - label: Researcher
+        - label: Writer / Narrator
+        - label: Developer / Builder
+        - label: Designer
+        - label: Reviewer / Critic
+        - label: Facilitator
+        - label: Data / Experiments
+        - label: Artist / Creative
+        - label: Connector
+        - label: Other (describe below)
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence or links
+      description: PRs, documents, threads, commits, Figma links, etc.
+      placeholder: "https://github.com/.../pull/42\nhttps://figma.com/..."
+
+  - type: input
+    id: date-range
+    attributes:
+      label: When was this work done?
+      placeholder: "March–April 2026"
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional notes for the credit record
+      description: Anything special the project lead should know when writing the final attribution?
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+
+        **Tip**: Project leads love when contributors proactively submit these. It makes maintaining the CONTRIBUTORS.md much easier.
+
+        After this issue is closed, the contribution should appear in the project's official credit record.

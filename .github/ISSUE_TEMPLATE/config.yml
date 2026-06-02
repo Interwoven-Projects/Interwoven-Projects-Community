@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 💬 Join the conversation in Discussions
+    url: https://github.com/Interwoven-Projects-Community/Interwoven-Projects-Community/discussions
+    about: For general questions, introductions, and casual project discussion.
+  - name: ❓ Ask a question
+    url: https://github.com/Interwoven-Projects-Community/Interwoven-Projects-Community/discussions/categories/general-meta
+    about: Use Discussions for anything not covered by the issue forms.

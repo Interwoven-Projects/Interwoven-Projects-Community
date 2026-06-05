@@ -106,7 +106,10 @@ All participants are expected to follow our [Code of Conduct](./CODE_OF_CONDUCT.
 
 | Name           | Role          | X @ Handle      | GitHub Account | Email                      |
 |----------------|---------------|-----------------|----------------|----------------------------|
-| Squirrel Rambo | Administrator | @SquirrellyRambo | Squirrel814   | InterwovenProjects@gmail.com |
+| Squirrel Rambo | Administrator | @S3C_Squirrel   | Squirrel814    | InterwovenProjects@gmail.com |
+| Nuer           | Moderator     | @nueresthetic   | neuresthetics  | neuresthetics@gmail.com      |
+| Omar Almoktar  | Moderator     | @OmarAlmoktar   | Stawils        | stawils@gmail.com            |
+| Ark            | Moderator     | @Ark__          | LUK3ARK        |                              |
 
 Official X Communities group chat: https://x.com/i/chat/group_join/g2052485957421576616/1IPW0e5lSJ
 

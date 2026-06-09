@@ -135,7 +135,6 @@ For questions or comments regarding Interwoven Projects, please reach out to the
 | Nuer           | Moderator     | @nueresthetic   | neuresthetics  | neuresthetics@gmail.com      |
 | Omar Almoktar  | Moderator     | @OmarAlmoktar   | Stawils        | stawils@gmail.com            |
 | Ark            | Moderator     | @Ark__          | LUK3ARK        | -                            |
-| Simon G Farmer | Moderator     | @SimonGFarmer   | SimonGFarmer   | -                            |
 
 **Official X Communities group chat:** https://x.com/i/chat/group_join/g2052485957421576616/1IPW0e5lSJ  
 We highly suggest you join Interwoven Projects spaces posted in the group chats on X.
